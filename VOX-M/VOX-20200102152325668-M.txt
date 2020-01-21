@@ -1,1 +1,1 @@
-﻿thor do
+thor do

@@ -1,1 +1,1 @@
-﻿do frank sinatra passando em cima
+do frank sinatra passando em cima
