@@ -1,0 +1,1 @@
+﻿é só eu pegar o magic number e multiplicar por dez mil que vai dar um milhão oitocentos e oitenta

@@ -1,0 +1,1 @@
+﻿valor é o que você recebe e se esse valor for superior ao preço

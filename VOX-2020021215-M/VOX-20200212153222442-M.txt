@@ -1,0 +1,1 @@
+﻿os valores do centro da circunferência são dados e o raio é dado ali no meio

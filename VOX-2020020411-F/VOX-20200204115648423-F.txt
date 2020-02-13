@@ -1,0 +1,1 @@
+﻿dica numero oito usem o operador curinga um asterisco

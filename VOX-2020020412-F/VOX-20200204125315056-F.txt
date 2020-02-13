@@ -1,0 +1,1 @@
+﻿a intersecção de ambas mediatrizes será o centro do círculo

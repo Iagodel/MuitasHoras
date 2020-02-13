@@ -1,0 +1,1 @@
+﻿o que é i e o que é j dentro de uma matriz ele diz que o elemento aij é o valor

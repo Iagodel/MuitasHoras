@@ -1,0 +1,1 @@
+﻿diagonal está toda cheia de zeros porque não dá pra você transferir de um banco para

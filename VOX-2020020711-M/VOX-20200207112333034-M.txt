@@ -1,0 +1,1 @@
+﻿atribuindo vetores de forma mais consciente

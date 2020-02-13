@@ -1,0 +1,1 @@
+﻿então o long & short por ele ter proteção ele vai ser comparado ao cdi o long biased tá ipca mais seis que é o benchmarking dele e

@@ -1,0 +1,1 @@
+﻿inventar frases ou poemas onde o número de letras em cada palavra corresponde ao dígito

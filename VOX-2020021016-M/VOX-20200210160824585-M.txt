@@ -1,0 +1,1 @@
+﻿jogadores o que eu fiz foi duas linhas número de jogadores e número de partidas

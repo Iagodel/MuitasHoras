@@ -1,0 +1,1 @@
+﻿para dizer ao google que retorne apenas alguns tipos de arquivos pdfs jpegs powerpoints

@@ -1,0 +1,1 @@
+﻿geometria analítica pra encontrar o centro do círculo

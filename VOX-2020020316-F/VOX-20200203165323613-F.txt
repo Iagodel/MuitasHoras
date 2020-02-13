@@ -1,0 +1,1 @@
+﻿podem ver que a primeira técnica funciona ao separarmos o número em vários pedaços
