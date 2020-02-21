@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 estou sentindo um “mas” no ar
+=======
+﻿estou sentindo um mas no ar
+>>>>>>> 467cf6e129831b4dcc86109bec40d7180b445580
