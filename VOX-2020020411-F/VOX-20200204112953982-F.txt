@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ao qual se referem como “buraco negro supermassivo” devido a sua imensa massa
-=======
-﻿ao qual se referem como buraco negro supermassivo devido a sua imensa massa
->>>>>>> 467cf6e129831b4dcc86109bec40d7180b445580
+ao qual se referem como buraco negro supermassivo devido a sua imensa massa

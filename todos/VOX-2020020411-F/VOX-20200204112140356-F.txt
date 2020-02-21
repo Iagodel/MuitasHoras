@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-isto sugeriu que “estrelas escuras” também poderiam existir
-=======
-﻿isto sugeriu que estrelas escuras também poderiam existir
->>>>>>> 467cf6e129831b4dcc86109bec40d7180b445580
+isto sugeriu que estrelas escuras também poderiam existir

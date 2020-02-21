@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-[márcio] “a motivação principal minha foi conhecer um lugar único um lugar isolado que requer uma
-=======
-﻿márcio a motivação principal minha foi conhecer um lugar único um lugar isolado que requer uma
->>>>>>> 467cf6e129831b4dcc86109bec40d7180b445580
+a motivação principal minha foi conhecer um lugar único um lugar isolado que requer uma
