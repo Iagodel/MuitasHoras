@@ -1,1 +1,1 @@
-﻿galera
+galera
