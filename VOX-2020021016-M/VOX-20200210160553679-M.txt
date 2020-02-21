@@ -1,1 +1,1 @@
-basicamente peguei os valores de p que é x e y que são as minhas incógnitas e os
+﻿basicamente peguei os valores de p que é x e y que são as minhas incógnitas e os

@@ -1,1 +1,1 @@
-itens você vai procurar pelos itens que tem mais repetição
+﻿itens você vai procurar pelos itens que tem mais repetição

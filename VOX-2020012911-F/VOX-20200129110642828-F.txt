@@ -1,1 +1,1 @@
-enquanto o corredor b não vai ter a chance de errar ou seja vai ter que fazer uma corrida praticamente perfeita para que consiga chegar ao mesmo lugar que o primeiro corredor
+﻿enquanto o corredor b não vai ter a chance de errar ou seja vai ter que fazer uma corrida praticamente perfeita para que consiga chegar ao mesmo lugar que o primeiro corredor

@@ -1,1 +1,1 @@
-qualquer tipo de embalagem transforma temporariamente um objeto e cria
+﻿qualquer tipo de embalagem transforma temporariamente um objeto e cria

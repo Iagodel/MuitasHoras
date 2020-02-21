@@ -1,1 +1,1 @@
-senão ele não tem valor
+﻿senão ele não tem valor

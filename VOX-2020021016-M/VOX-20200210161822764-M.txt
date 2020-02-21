@@ -1,1 +1,1 @@
-é dado pelo número de centímetros na vertical para cada metro na horizontal
+﻿é dado pelo número de centímetros na vertical para cada metro na horizontal

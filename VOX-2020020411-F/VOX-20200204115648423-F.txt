@@ -1,1 +1,1 @@
-dica numero oito usem o operador curinga um asterisco
+﻿dica numero oito usem o operador curinga um asterisco

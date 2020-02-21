@@ -1,1 +1,1 @@
-permitem adquirir locais altamente precisos com base no que a câmara está visualizando
+﻿permitem adquirir locais altamente precisos com base no que a câmara está visualizando

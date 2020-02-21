@@ -1,1 +1,1 @@
-coloquem entre aspas dessa forma o google pesquisará a string exata em vez de dividi la em palavra
+﻿coloquem entre aspas dessa forma o google pesquisará a string exata em vez de dividi la em palavra

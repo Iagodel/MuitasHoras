@@ -1,1 +1,1 @@
-angular é a quantidade de movimento de rotação de uma partícula ou de um sistema de partículas
+﻿angular é a quantidade de movimento de rotação de uma partícula ou de um sistema de partículas

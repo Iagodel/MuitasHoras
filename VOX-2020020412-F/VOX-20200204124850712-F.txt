@@ -1,1 +1,1 @@
-a equação do círculo tem três parâmetros h k e r
+﻿a equação do círculo tem três parâmetros h k e r

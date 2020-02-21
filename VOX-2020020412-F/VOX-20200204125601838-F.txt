@@ -1,1 +1,1 @@
-em linhas e colunas por que não colocamos os elementos em uma longa lista
+﻿em linhas e colunas por que não colocamos os elementos em uma longa lista

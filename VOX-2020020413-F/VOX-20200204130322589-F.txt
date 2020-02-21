@@ -1,1 +1,1 @@
-cabal da utilidade da tabela períodica de mendeleiev como instrumento de previsão
+﻿cabal da utilidade da tabela períodica de mendeleiev como instrumento de previsão
