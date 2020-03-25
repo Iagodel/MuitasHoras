@@ -1,1 +1,0 @@
-a z elevado a n não possui soluções positivas inteiras se n for maior do que dois
