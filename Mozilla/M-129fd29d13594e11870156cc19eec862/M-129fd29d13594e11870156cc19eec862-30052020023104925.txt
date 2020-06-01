@@ -1,0 +1,1 @@
+extraia os dados relevantes e veja se ele corresponde às nossas estatísticas

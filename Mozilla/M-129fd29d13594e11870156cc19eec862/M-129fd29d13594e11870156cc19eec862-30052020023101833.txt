@@ -1,0 +1,1 @@
+suas probabilidades de observação são calculadas como um produto de probabilidades de pixels

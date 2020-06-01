@@ -1,0 +1,1 @@
+os pesos em w podem ser negativos

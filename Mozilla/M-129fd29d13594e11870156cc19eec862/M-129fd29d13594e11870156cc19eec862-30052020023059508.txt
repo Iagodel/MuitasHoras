@@ -1,0 +1,1 @@
+depois de escrever um relatório de bug devese verificar regularmente se alguém respondeu
