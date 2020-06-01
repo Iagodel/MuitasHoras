@@ -1,0 +1,1 @@
+nenhuma redução será aplicada caso a diferença detectada seja inferior a cinco por cento
