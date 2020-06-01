@@ -1,1 +1,0 @@
-cabal da utilidade da tabela períodica de mendeleiev como instrumento de previsão

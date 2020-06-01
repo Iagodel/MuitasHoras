@@ -1,1 +1,0 @@
-podemos determinar o tamanho da esfera que separa a região do ponto de não retorno

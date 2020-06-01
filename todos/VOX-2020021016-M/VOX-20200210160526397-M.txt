@@ -1,1 +1,0 @@
-distância do p até o a seja um valor que seja o dobro da distância p até o

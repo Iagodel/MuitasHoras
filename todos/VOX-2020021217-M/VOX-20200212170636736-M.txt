@@ -1,1 +1,0 @@
-rápida multiplicando os valores de cada fileira somando e depois dividindo por cem

@@ -1,1 +1,0 @@
-diagonal dos quadrados é sempre o lado raiz de dois

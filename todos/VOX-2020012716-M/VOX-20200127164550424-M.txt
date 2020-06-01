@@ -1,1 +1,0 @@
-de indexação onde os preços do mês anterior influenciavam o preço do mês seguinte

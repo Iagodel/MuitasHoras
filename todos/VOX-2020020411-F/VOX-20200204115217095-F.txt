@@ -1,1 +1,0 @@
-dica numero cinco usem o operador ponto ponto para pesquisar um intervalo numérico

@@ -1,1 +1,0 @@
-os times consistem em quatro bloqueadores e um atacante e o objetivo principal de cada um

@@ -1,1 +1,0 @@
-a forma fácil é você pegar o magic number e multiplicar por dez mil

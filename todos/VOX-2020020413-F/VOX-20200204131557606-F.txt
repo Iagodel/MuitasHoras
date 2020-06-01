@@ -1,1 +1,0 @@
-constante equivale à afirmação de que o momento angular também é constante ou seja

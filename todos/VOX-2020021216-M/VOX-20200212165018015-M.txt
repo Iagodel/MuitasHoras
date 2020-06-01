@@ -1,1 +1,0 @@
-a única diferença entre as duas é o p fatorial que divide na combinação

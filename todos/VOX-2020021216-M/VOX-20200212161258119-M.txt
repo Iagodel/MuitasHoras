@@ -1,1 +1,0 @@
-aproximar pra cima arredondando para um número inteiro maior que vai ser vinte e dois e se

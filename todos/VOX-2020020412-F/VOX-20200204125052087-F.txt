@@ -1,1 +1,0 @@
-x dois y dois e x três e y três não são variáveis são números

@@ -1,1 +1,0 @@
-temos que trocar prétestes e ter certeza de que estamos cobrindo o que cada um precisa

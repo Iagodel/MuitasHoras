@@ -1,1 +1,0 @@
-esquerda para a direita e de cima para baixo cada elemento tem o seu número atômico único
