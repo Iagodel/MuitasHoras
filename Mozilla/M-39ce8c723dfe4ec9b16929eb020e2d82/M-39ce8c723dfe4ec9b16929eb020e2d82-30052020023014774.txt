@@ -1,0 +1,1 @@
+use isso internamente para implementar um serviço

@@ -1,0 +1,1 @@
+os servidores do projeto de voz comum não conseguiam lidar com a carga pesada

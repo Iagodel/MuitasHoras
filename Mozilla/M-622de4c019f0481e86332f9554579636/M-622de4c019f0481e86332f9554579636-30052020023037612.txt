@@ -1,0 +1,1 @@
+como uma aproximação usamos uma distribuição gaussiana multivariada

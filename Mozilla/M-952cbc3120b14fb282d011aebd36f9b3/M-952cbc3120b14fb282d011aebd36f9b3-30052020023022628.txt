@@ -1,0 +1,1 @@
+para medir o desempenho com precisão precisamos de um benchmark

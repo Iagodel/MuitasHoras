@@ -1,0 +1,1 @@
+primeiro você precisa instalar uma extensão que rotule elementos clicáveis na página

@@ -1,0 +1,1 @@
+dado apenas a chave pública é muito difícil calcular a chave privada

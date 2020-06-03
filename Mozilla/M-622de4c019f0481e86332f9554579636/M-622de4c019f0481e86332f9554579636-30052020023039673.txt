@@ -1,0 +1,1 @@
+eu proporia um ataque de dicionário em vez de força bruta

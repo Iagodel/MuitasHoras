@@ -1,0 +1,1 @@
+a documentação do keras está disponível em japonês

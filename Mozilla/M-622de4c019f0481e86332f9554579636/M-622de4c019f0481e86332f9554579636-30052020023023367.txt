@@ -1,0 +1,1 @@
+os resultados alcançados estão muito aquém do estado da arte na classificação de imagens

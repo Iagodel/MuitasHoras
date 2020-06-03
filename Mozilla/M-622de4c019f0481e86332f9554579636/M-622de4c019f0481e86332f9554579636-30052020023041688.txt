@@ -1,0 +1,1 @@
+para descobrir o limite exato precisamos repetir isso de uma maneira reproduzível

@@ -1,0 +1,1 @@
+devemos encontrar outro dataset em vez de usar apenas mnist

@@ -1,0 +1,1 @@
+nós vamos usar javascript para lidar com o site

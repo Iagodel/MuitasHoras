@@ -1,0 +1,1 @@
+o artigo apresenta uma variante de um modelo oculto de markov para imagens

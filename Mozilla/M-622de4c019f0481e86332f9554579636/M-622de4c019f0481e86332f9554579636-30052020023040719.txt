@@ -1,0 +1,1 @@
+o tensorflow roda mais rápido com uma placa gráfica

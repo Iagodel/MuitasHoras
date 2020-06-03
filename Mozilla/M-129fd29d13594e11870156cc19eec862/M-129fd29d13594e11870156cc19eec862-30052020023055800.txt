@@ -1,0 +1,1 @@
+o quarto componente de coordenadas homogêneas é geralmente definido como um

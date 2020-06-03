@@ -1,0 +1,1 @@
+as probabilidades de pixel são condicionadas no estado do modelo

@@ -1,0 +1,1 @@
+controlar um processo mestre de multiplexação de conexão ativa

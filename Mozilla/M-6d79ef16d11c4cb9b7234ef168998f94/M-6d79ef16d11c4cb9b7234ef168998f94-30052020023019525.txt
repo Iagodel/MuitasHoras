@@ -1,0 +1,1 @@
+podemos descrever o movimento do objeto com uma equação diferencial de segunda ordem

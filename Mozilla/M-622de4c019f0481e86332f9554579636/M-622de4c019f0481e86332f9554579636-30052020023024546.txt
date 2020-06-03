@@ -1,0 +1,1 @@
+cada local na tela está em uma determinada linha e coluna

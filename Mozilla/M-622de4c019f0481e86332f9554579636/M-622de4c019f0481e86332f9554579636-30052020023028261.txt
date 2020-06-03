@@ -1,0 +1,1 @@
+ele excluiu cinco tabelas do banco de dados

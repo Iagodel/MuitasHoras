@@ -1,0 +1,1 @@
+soluções locais devem ser preferidas para soluções em nuvem em muitos casos

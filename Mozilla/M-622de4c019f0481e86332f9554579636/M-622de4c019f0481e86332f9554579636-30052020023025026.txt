@@ -1,0 +1,1 @@
+certifiquese de ter os drivers mais recentes da nvidia instalados

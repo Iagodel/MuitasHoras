@@ -1,0 +1,1 @@
+o determinante é o produto de todos os autovetores de uma matriz

@@ -1,0 +1,1 @@
+eles usaram o relu como uma função de ativação para esse problema
