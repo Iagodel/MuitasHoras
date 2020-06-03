@@ -1,0 +1,1 @@
+listar todas as opções válidas programadas para se tornarem obsoletas em uma versão futura

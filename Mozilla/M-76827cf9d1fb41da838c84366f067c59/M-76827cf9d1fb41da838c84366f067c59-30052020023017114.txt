@@ -1,0 +1,1 @@
+as telas sensíveis ao toque não fornecem feedback tátil

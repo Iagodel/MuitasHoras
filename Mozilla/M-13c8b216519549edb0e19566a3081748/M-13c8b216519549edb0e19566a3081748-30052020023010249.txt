@@ -1,0 +1,1 @@
+graças à extensibilidade dos navegadores modernos isso funciona surpreendentemente bem

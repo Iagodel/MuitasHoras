@@ -1,0 +1,1 @@
+compilar o kernel do linux pode ser demorado

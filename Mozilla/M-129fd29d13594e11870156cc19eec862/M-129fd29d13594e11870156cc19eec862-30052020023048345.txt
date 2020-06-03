@@ -1,0 +1,1 @@
+todo software de processamento de imagens contém contraste automático e aprimoramento de cores

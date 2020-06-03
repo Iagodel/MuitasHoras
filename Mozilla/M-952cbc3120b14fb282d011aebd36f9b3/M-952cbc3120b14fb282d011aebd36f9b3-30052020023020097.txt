@@ -1,0 +1,1 @@
+verifique as atualizações do tensorflow

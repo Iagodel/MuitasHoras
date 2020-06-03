@@ -1,0 +1,1 @@
+o modelo pode ser inicializado com codificação esparsa

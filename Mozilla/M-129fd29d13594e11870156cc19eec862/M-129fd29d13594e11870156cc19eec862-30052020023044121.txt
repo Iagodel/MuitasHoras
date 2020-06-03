@@ -1,0 +1,1 @@
+quando houver perda de pressão da cabine as máscaras de oxigênio serão automaticamente desativadas

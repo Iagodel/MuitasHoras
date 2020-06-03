@@ -1,0 +1,1 @@
+os botões emitiam um som estranho quando pressionados

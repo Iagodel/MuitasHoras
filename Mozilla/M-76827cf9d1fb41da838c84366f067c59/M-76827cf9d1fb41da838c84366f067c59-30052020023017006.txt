@@ -1,0 +1,1 @@
+criptografia assimétrica usa pares de chaves

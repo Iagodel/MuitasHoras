@@ -1,0 +1,1 @@
+além da criptografia ele também pode ser usado para autenticação

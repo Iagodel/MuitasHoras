@@ -1,0 +1,1 @@
+o virtualbox fornece seu próprio modo sem raiz

@@ -1,0 +1,1 @@
+reconhecimento de entidade nomeada pode ser feito usando redes neurais
