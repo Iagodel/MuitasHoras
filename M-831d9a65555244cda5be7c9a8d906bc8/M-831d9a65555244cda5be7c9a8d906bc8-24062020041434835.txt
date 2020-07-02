@@ -1,0 +1,1 @@
+os métodos de monitorização que apenas têm como base os registos de duração dos ciclos designam se por métodos rítmicos

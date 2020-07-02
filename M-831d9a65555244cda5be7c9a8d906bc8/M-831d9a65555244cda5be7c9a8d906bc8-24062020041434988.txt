@@ -1,0 +1,1 @@
+ existe uma relação entre o tamanho das pintas brancas na cauda e o número de descendentes produzidos em cada ano

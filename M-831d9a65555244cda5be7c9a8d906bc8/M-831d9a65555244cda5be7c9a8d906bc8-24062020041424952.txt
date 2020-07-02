@@ -1,0 +1,1 @@
+adaptabilidade é a capacidade de adaptação a situações novas para as quais não foi fornecido todo o conhecimento necessário com antecedênciafeita principalmente com técnicas de aprendizado de máquina aplicado em agentes na internet interfaces amigáveis entre outros

@@ -1,0 +1,1 @@
+os intervalos de confiança podem ser estimados para qualquer intervalo escolhido

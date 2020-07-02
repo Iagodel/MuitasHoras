@@ -1,0 +1,1 @@
+ o comprimento de cada eixo à volta do círculo é proporcional à frequência com que o vento sopra de determinada direção ao longo de determinado intervalo de tempo

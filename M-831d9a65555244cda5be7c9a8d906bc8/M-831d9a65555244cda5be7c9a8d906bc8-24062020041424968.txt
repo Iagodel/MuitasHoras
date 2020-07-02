@@ -1,0 +1,1 @@
+a experiência do agente é dividida em episódios cada episódio consiste em o agente perceber e então agir

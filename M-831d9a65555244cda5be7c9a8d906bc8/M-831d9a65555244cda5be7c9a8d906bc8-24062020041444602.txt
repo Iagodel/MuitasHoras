@@ -1,0 +1,1 @@
+o nível de confiança é a frequência com a qual o intervalo observado contém o parâmetro real de interesse quando o experimento é repetido várias vezes

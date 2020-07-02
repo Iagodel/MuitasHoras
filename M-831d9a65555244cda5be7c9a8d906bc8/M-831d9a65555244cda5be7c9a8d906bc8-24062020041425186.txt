@@ -1,0 +1,1 @@
+o modelo armazena informações sobre a parte não observável do mundopor exemplo um robô motorista de táxi como reativo com modelo de mundo

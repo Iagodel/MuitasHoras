@@ -1,0 +1,1 @@
+fornece metodologias de desenvolvimento de sistemas inteligentes estendendo as de engenharia de software

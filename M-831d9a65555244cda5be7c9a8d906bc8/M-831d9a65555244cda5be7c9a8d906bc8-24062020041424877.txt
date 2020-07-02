@@ -1,0 +1,1 @@
+quando o agente é colocado em um ambiente ele gera uma sequência de ações com base nas suas percepções essa sequência leva o ambiente a modificarse passando por uma sucessão de estados se essa sucessão leva a um estado desejável então o agente teve um bom desempenho

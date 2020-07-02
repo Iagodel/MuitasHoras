@@ -1,0 +1,1 @@
+o ambiente recebe os agentes como entrada e fornece repetidamente a cada um deles as percepções corretas e recebe as ações escolhidas também atualiza os dados do ambiente em função dessas ações e de outros processos

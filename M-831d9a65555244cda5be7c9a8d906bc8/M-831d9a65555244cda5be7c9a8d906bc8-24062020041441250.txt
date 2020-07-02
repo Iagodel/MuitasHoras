@@ -1,0 +1,1 @@
+enquanto o desvio padrão e a variância calculam a medida de dispersão sem levar em conta a ordem dos dados o intervalo interquartil avalia a dispersão de dados somente depois de ordená los em ordem crescente

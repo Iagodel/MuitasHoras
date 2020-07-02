@@ -1,0 +1,1 @@
+ se o valor estatístico exceder o valor crítico o resultado será significante ao nível de cinco porcento

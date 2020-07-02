@@ -1,0 +1,1 @@
+agente racional tenta fazer a melhor coisa possível ele segue o princípio da racionalidade dada uma sequência perceptiva o agente escolhe segundo seus conhecimentos as ações que melhor satisfazem seu objetivo

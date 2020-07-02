@@ -1,0 +1,1 @@
+os testes de voo provaram que as estimativas em torno da performance estavam corretas e que mesmo quando alimentadas com um motor normal as aeronaves voaram mais rápido que outros caças que estavam a ser desenvolvidos na mesma altura

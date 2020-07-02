@@ -1,0 +1,1 @@
+ em outras palavras duas variáveis aleatórias diferentes ou duas variáveis aleatórias definidas em espaços diferentes podem ter a mesma distribuição
