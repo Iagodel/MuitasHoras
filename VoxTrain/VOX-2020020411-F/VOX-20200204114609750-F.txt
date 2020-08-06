@@ -1,1 +1,1 @@
-﻿entre aspas caso contrário estaremos pesquisando as partes do nome separadamente além de
+entre aspas caso contrário estaremos pesquisando as partes do nome separadamente além de

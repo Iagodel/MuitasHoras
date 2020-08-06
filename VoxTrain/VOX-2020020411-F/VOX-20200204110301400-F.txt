@@ -1,1 +1,1 @@
-﻿mas enquanto a velocidade rotacional varia o momento angular nunca muda permanece constante
+mas enquanto a velocidade rotacional varia o momento angular nunca muda permanece constante

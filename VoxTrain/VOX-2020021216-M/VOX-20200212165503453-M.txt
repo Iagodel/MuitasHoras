@@ -1,1 +1,1 @@
-﻿eu estou ignorando o por cento porque depois vou dividir tudo por cem somar
+eu estou ignorando o por cento porque depois vou dividir tudo por cem somar

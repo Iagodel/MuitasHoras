@@ -1,1 +1,1 @@
- em uma imagem a quantidade de vezes que uma determinada cor se repete pode ser representada por um histograma
+em uma imagem a quantidade de vezes que uma determinada cor se repete pode ser representada por um histograma

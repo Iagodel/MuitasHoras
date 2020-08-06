@@ -1,1 +1,1 @@
-﻿mas quando você restringe o tipo de números aos inteiros o problema torna se muito mais
+mas quando você restringe o tipo de números aos inteiros o problema torna se muito mais

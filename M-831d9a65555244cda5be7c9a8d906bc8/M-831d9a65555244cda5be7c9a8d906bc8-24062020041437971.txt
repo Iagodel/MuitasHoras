@@ -1,1 +1,1 @@
- uma aproximação do desvio padrão da direção do vento é dada pelo algoritmo que é usado em anemômetros modernos
+uma aproximação do desvio padrão da direção do vento é dada pelo algoritmo que é usado em anemômetros modernos

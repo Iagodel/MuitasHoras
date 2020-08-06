@@ -1,1 +1,1 @@
- o erro padrão da média é calculado a partir do desvio padrão das médias as quais poderiam ser computadas a partir de uma população se um número infinito de amostras e uma média para cada amostra fossem considerados
+o erro padrão da média é calculado a partir do desvio padrão das médias as quais poderiam ser computadas a partir de uma população se um número infinito de amostras e uma média para cada amostra fossem considerados

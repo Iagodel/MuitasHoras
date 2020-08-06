@@ -1,1 +1,1 @@
-﻿dividindo o comprimento e a largura pelo diâmetro
+dividindo o comprimento e a largura pelo diâmetro

@@ -1,1 +1,1 @@
- padrões de apego inseguro são não ideais pois eles podem comprometer a exploração a auto confiança e o conhecimento mais profundo do ambiente
+padrões de apego inseguro são não ideais pois eles podem comprometer a exploração a auto confiança e o conhecimento mais profundo do ambiente

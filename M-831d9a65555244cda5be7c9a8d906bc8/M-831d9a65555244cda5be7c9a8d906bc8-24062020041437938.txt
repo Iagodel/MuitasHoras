@@ -1,1 +1,1 @@
- uma distribuição direcional de dimensão pode ser representada por um vetor
+uma distribuição direcional de dimensão pode ser representada por um vetor

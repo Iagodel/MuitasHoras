@@ -1,1 +1,1 @@
- o conjunto de distribuições de probabilidade é um subespaço do espaço de medidas finitas
+o conjunto de distribuições de probabilidade é um subespaço do espaço de medidas finitas

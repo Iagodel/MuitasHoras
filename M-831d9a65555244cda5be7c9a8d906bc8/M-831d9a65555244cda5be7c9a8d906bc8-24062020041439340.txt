@@ -1,1 +1,1 @@
- um critério suficiente para uma distribuição de probabilidade ser discreta é que
+um critério suficiente para uma distribuição de probabilidade ser discreta é que

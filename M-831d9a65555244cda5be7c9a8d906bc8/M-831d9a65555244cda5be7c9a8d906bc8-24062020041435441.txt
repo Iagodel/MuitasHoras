@@ -1,1 +1,1 @@
- ele também checa se o site que está sendo visitado está nas listas negras e avisa se ele se encontra em uma destas listas
+ele também checa se o site que está sendo visitado está nas listas negras e avisa se ele se encontra em uma destas listas

@@ -1,1 +1,1 @@
- se os valores forem parte de uma amostra aleatória extraída de uma população maior então o denominador da fórmula da variância seria calculado pela equação abaixo
+se os valores forem parte de uma amostra aleatória extraída de uma população maior então o denominador da fórmula da variância seria calculado pela equação abaixo

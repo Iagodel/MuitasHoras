@@ -1,1 +1,1 @@
- por meio de um estudo detalhado dos percentis medidos em uma população com idade fixa e por meio de testes estatísticos de adequação as distribuições dos pesos e das alturas por faixa etária foram modeladas por distribuições de probabilidade
+por meio de um estudo detalhado dos percentis medidos em uma população com idade fixa e por meio de testes estatísticos de adequação as distribuições dos pesos e das alturas por faixa etária foram modeladas por distribuições de probabilidade

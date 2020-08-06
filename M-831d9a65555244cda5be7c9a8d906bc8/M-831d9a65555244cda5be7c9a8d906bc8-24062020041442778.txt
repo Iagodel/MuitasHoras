@@ -1,1 +1,1 @@
- em uma votação em que a quantidade de votos determina a vitória um resultado unimodal determina o vencedor enquanto que um valor multimodal exige o desempate
+em uma votação em que a quantidade de votos determina a vitória um resultado unimodal determina o vencedor enquanto que um valor multimodal exige o desempate

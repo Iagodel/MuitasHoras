@@ -1,1 +1,1 @@
- em outras palavras a soma do resultado particular  de cada lance irá se aproximar cada vez mais de um sexto do número total de jogadas
+em outras palavras a soma do resultado particular de cada lance irá se aproximar cada vez mais de um sexto do número total de jogadas

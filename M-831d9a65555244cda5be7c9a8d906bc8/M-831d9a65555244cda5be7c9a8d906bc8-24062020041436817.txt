@@ -1,1 +1,1 @@
- se um teste de hipótese for realizado o nível de confiança é o complemento do nível de significância
+se um teste de hipótese for realizado o nível de confiança é o complemento do nível de significância

@@ -1,1 +1,1 @@
-﻿marte se move mais lentamente de qualquer maneira a área percorrida num período fixo
+marte se move mais lentamente de qualquer maneira a área percorrida num período fixo

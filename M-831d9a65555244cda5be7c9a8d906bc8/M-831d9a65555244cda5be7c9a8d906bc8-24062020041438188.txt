@@ -1,1 +1,1 @@
- portanto enquanto cada uma das duas cidades pode ter a mesma temperatura máxima média o desvio padrão da temperatura máxima diária da cidade da costa será muito menor que a temperatura máxima diária da cidade no continente
+portanto enquanto cada uma das duas cidades pode ter a mesma temperatura máxima média o desvio padrão da temperatura máxima diária da cidade da costa será muito menor que a temperatura máxima diária da cidade no continente

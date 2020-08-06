@@ -1,1 +1,1 @@
- se houver um número par de observações não há um único valor do meio
+se houver um número par de observações não há um único valor do meio

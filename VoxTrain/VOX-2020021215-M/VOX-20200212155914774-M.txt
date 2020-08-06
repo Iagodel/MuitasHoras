@@ -1,1 +1,1 @@
-﻿exemplo pega o valor a dois três quer dizer que o valor está na linha dois
+exemplo pega o valor a dois três quer dizer que o valor está na linha dois

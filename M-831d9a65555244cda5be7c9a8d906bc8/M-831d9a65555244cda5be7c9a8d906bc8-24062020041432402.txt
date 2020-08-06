@@ -1,1 +1,1 @@
- este número foi escolhido de forma a que se um elemento tiver uma massa atómica de um um mole de átomos desse elemento tenha uma massa exata de um grama
+este número foi escolhido de forma a que se um elemento tiver uma massa atómica de um um mole de átomos desse elemento tenha uma massa exata de um grama
