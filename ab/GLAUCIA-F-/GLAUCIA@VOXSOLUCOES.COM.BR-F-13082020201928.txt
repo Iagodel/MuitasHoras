@@ -1,1 +1,0 @@
-o banco facilita o envio e recebimento de valores em moeda estrangeira 
