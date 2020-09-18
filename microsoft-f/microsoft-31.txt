@@ -1,1 +1,0 @@
-alteraram o limite do cartão de crédito e cheque especial automaticamente
