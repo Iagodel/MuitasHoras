@@ -1,0 +1,1 @@
+diego desenvolveu uma ferramenta que possibilita executar um reparo automaticamente

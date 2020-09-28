@@ -1,0 +1,1 @@
+a sincronização de arquivos é uma operação bidirecional

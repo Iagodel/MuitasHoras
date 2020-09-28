@@ -1,0 +1,1 @@
+compactei os arquivos para diminuir a extensão da pasta 

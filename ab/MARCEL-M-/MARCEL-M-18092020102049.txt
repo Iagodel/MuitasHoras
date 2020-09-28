@@ -1,0 +1,1 @@
+o uso da tecla tab também serve para confirmar a escrita de um conteúdo em uma célula do excel

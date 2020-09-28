@@ -1,0 +1,1 @@
+o boot de um sistema existe por duas razões: testar o hardware e iniciar o sistema operacional

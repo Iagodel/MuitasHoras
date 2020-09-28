@@ -1,0 +1,1 @@
+obter informações de monitoração somente da conta

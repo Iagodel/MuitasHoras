@@ -1,0 +1,1 @@
+os dados e programas ficam na memória ram enquanto estão sendo processados

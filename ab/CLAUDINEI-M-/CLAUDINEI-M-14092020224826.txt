@@ -1,0 +1,1 @@
+a glaucia precisou coletar os logs na base do cliente para analisar onde estava o erro

@@ -1,0 +1,1 @@
+o diego descobriu a origem do bug do sistema através dos logs

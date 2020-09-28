@@ -1,0 +1,1 @@
+o banco de dados onde continha informações sobre o domínio do cliente foi excluído indevidamente

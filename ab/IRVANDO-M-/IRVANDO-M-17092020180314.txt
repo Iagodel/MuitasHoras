@@ -1,0 +1,1 @@
+a função do modem é traduzir os pulsos elétricos digitais em variações elétricas analógicas

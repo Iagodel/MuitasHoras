@@ -1,0 +1,1 @@
+através do socket é que se conecta um processador a placa-mãe

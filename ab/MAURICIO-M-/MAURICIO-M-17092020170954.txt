@@ -1,0 +1,1 @@
+a cada clique nesta setinha curva o word desfaz uma ação realizada pelo usuário
